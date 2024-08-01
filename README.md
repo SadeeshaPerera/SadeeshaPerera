@@ -12,9 +12,9 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **Mern Stack Development**
+- 🌱 I’m currently learning **Flutter**
   
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on **MERN Stack and Java Projects**
   
 - 🤝 I’m looking for help with **Android Development**
 
