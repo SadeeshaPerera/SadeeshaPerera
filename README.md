@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter**
   
-- 👯 I’m looking to collaborate on **MERN Stack and Java Projects**
+- 👯 I’m looking to collaborate on **Full Stack Development**
   
 - 🤝 I’m looking for help with **Android Development**
 
