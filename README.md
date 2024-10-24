@@ -37,8 +37,10 @@
 <a href="https://linkedin.com/in/sadeesha-perera" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg?raw=true" alt="sadeesha-perera" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/22383535" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" alt="22383535" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@devsadeesha" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true" alt="@devsadeesha" height="50" width="50" /></a>
+<a href="https://www.behance.net/sadeeshaperera" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Behance_white.svg" alt="sadeeshaperera" height="50" width="50" /></a>
 <a href="https://fb.com/sadeesha.b.perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadeesha.b.perera" height="50" width="50" /></a>&nbsp;
 <a href="https://instagram.com/sadeesha_b_perera_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="sadeesha_b_perera_" height="50" width="50" /></a>
+
 </p>
 </br>
 
