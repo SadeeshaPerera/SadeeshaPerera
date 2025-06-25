@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello👋 I'm Sadeesha Perera</h1>
-<h3 align="center">🚀 DevOps Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">DevOps Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadeeshaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sadeeshaperera" /> </p> -->
 <br>
