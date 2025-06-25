@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello👋 I'm Sadeesha Perera</h1>
-<h3 align="center">Software Engineering Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>
+<h3 align="center">🚀 DevOps Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadeeshaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sadeeshaperera" /> </p> -->
 <br>
@@ -11,18 +11,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
+- 💬 Ask me about **Scripting, CI/CD, Infrastructure as Code**
 
-- 🌱 I’m currently learning **Flutter**
-  
-- 👯 I’m looking to collaborate on **Full Stack Development**
-  
-- 🤝 I’m looking for help with **Android Development**
+- 📦 Skilled with **Containerization & Orchestration** 
 
-- 💬 Ask me about **Java**
+- 🌱 Currently learning **Argo CD & GitOps**
 
-<!-- - 📫 How to reach me **s* -->
+- 🧠 Always curious about system scalability and reliability
 
-- ⚡ Fun fact **Call me as SP**
+- ⚡ Fun fact: I automate everything, even my coffee brew reminders ☕
 
 </td>
 <td width="50%" align="center">
