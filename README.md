@@ -97,6 +97,10 @@
   </td>
 </tr>
 </table>
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadeeshaperera&theme=dark" alt="GitHub Trophies" />
+</p>
 
 ---
 
